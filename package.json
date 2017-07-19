@@ -1,0 +1,10 @@
+{
+  "name": "plugin-express-app",
+  "version": "0.0.1",
+  "main": "express-app.js",
+  "plugin": {
+    "provides": [
+      "express-app"
+    ]
+  }
+}
