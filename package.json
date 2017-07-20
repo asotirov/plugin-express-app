@@ -2,6 +2,9 @@
   "name": "plugin-express-app",
   "version": "0.0.1",
   "main": "express-app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
   "plugin": {
     "provides": [
       "express-app"
